@@ -7,7 +7,7 @@
 - [ShellPhish](#ShellPhish)
 - [Mechanical Phish](#Mechanical Phish)
 - [Tools](#Tools)
-- [Awesome Blogs](#Awesome Blogs (Article))
+- [Awesome Blogs (Article)](#Awesome Blogs (Article))
 
 ## 置顶
 整理近期工作，梳理相关资源，辅助后续工作开展。(持续更新)
@@ -47,12 +47,10 @@ CMU 2011 年发表的 AEG 综述性文章
     ### 4）Rex
     Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. [Source Code](https://github.com/shellphish/rex)、[Installation Guide](https://github.com/shellphish/rex/issues/5).
 
-
 ## Mechanical Phish
 - [Mechaphish](https://github.com/mechaphish) - Shellphish 为参加 CGC 而开发的 CRS(Cyber Reasoning System).
 - [Mechaphish 文档](https://github.com/mechaphish/mecha-docs/blob/master/development.md) - Mechaphish 相关文档。
 - [Mechaphish Docker](https://hub.docker.com/r/shellphish/mechaphish/) - Dockerhub 上提供的 Mechaphish 镜像。
-
 
 ## Tools
 - [angr.io](https://angr.io)、[Angr Github](https://github.com/angr) - The angr project is the next-generation binary analysis framework created by the computer security lab at UC Santa Barbara!
